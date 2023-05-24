@@ -1,5 +1,8 @@
 # static-web
-网站目录为 public/
+```
+可修改.env文件中的变量
+WEB_PATH=./public
+```
 
 # 默认首页文件为
 ```
